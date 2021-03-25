@@ -132,8 +132,8 @@ button{
 /* ###############        TOP BAR        ###############*/
 /*######################################################*/
 .topbar{
-	background: linear-gradient(to right, #c8db2b , #268f3a);
-    height: 59px;
+	background: linear-gradient(to right, #56fce9 , #ff4db2);
+    height: 60px;
     width: 100%;
     display: flex;
     justify-content: center;
